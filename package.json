@@ -1,13 +1,12 @@
 {
   "name": "antd-tools",
-  "version": "2.1.0",
+  "version": "1.0.2",
   "description": "tools for ant design",
   "keywords": [
     "react",
     "tools"
   ],
-  "homepage": "http://github.com/ant-design/antd-tools",
-  "author": "yiminghe@gmail.com",
+  "author": "asgardxf@gmail.com",
   "repository": {
     "type": "git",
     "url": "git@github.com:ant-design/antd-tools.git"
@@ -72,6 +71,6 @@
     "typescript": "^2.2.1"
   },
   "pre-commit": [
-    "lint"
+    
   ]
 }
